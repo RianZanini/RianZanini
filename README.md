@@ -1,6 +1,6 @@
  Sobre mim!
 🎓 Estudante de Ciência da Computação na PUC MG.
-💻 Interessado em desenvolvimento de software, inteligência artificial e ciência de dados.
+💻 Interessado em desenvolvimento de software, inteligência artificial, ciência de dados e cyber segurança.
 📚 Comprometido com o aprendizado contínuo e aprimoramento das minhas habilidades técnicas.
 📫 Contate-me no email: rianzanini.l@gmail.com.
 
