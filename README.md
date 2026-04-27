@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rian Zanini
 <p>
-   Me chamo Rian Zanini, tenho 20 anos, e sou natural de Belo Horizonte (MG). Concluí o ensino médio no IRSCM, atualmente faço graduação no curso de Ciência da Computação na PUC-Minas. Encantado com o poder da tecnologia.
+   Me chamo Rian Zanini, tenho 20 anos, e sou natural de Belo Horizonte (MG). Concluí o ensino médio no IRSCM, atualmente graduando no curso de Ciência da Computação na PUC-Minas. Encantado com o poder da tecnologia.
 </p>
 <p align="left">
     <a href="https://github.com/RianZanini?tab=repositories&sort=stargazers">
