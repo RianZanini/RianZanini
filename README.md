@@ -2,9 +2,11 @@
 <p>
    Olá! Eu sou Rian Zanini 👋
 
-🎓 Estudante de Ciência da Computação na PUC Minas
-💻 Interessado em Desenvolvimento de Software, IA e Cibersegurança
-🚀 Sempre aprendendo, criando projetos e explorando novas tecnologias
+   🎓 Estudante de Ciência da Computação na PUC Minas
+   
+   💻 Interessado em Desenvolvimento de Software, IA e Cibersegurança
+   
+   🚀 Sempre aprendendo, criando projetos e explorando novas tecnologias
 
 Busco constantemente aprimorar meus conhecimentos por meio de projetos acadêmicos e pessoais, explorando diferentes linguagens, ferramentas e tecnologias. Gosto de transformar ideias em soluções práticas, aprender coisas novas e enfrentar desafios que contribuam para minha evolução como desenvolvedor.
 Atualmente, busco transformar conhecimentos acadêmicos em projetos práticos e continuar evoluindo como profissional da área de tecnologia.
