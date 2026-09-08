@@ -1,6 +1,13 @@
 # 👩🏻‍💻 Rian Zanini
 <p>
-   Me chamo Rian Zanini, tenho 20 anos, e sou natural de Belo Horizonte (MG). Concluí o ensino médio no IRSCM, atualmente graduando no curso de Ciência da Computação na PUC-Minas. Encantado com o poder da tecnologia.
+   Olá! Eu sou Rian Zanini 👋
+
+🎓 Estudante de Ciência da Computação na PUC Minas
+💻 Interessado em Desenvolvimento de Software, IA e Cibersegurança
+🚀 Sempre aprendendo, criando projetos e explorando novas tecnologias
+
+Busco constantemente aprimorar meus conhecimentos por meio de projetos acadêmicos e pessoais, explorando diferentes linguagens, ferramentas e tecnologias. Gosto de transformar ideias em soluções práticas, aprender coisas novas e enfrentar desafios que contribuam para minha evolução como desenvolvedor.
+Atualmente, busco transformar conhecimentos acadêmicos em projetos práticos e continuar evoluindo como profissional da área de tecnologia.
 </p>
 <p align="left">
     <a href="https://github.com/RianZanini?tab=repositories&sort=stargazers">
